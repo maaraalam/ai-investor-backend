@@ -1,4 +1,4 @@
- from db.database import SessionLocal
+from db.database import SessionLocal
 from db.models import ChatSession, ChatMessage
 
 

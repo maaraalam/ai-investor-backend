@@ -15,6 +15,9 @@ from routes.auth import router as auth_router
 app = FastAPI(title="AI Investor Assistant")
 
 
+
+
+
 # 🔥 MUST BE FIRST middleware
 app.add_middleware(
     CORSMiddleware,
