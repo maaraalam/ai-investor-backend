@@ -1,6 +1,0 @@
-cd C:\Users\Meysam\AI\ai-investor-learning-assistant\backend
-uvicorn app:app --reload
-
-git add .
-git commit -m "fix indentation error"
-git push

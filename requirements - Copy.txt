@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 openai
+chromadb
 python-multipart
 pydantic
- 
+sentence-transformers
